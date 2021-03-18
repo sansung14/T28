@@ -1,5 +1,5 @@
 # T28
-Tarea 28 - Ejercicio 10 - Javascript
+Tarea 28 - Javascript
 
 #### 1. Description
 ```
